@@ -1,0 +1,17 @@
+body {
+   background-color: #d2faf3;
+   text-decoration: none;
+   font-size: 16px;
+   font
+     }
+
+img {
+    border-radius: 360px;
+    box-shadow: 8px 8px 25px -6px rgba(69,69,69,0.82);
+}
+
+a {
+    color: #000;
+    font-size: 20px;
+    text-decoration: none;
+}
